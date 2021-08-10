@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+    color: #fff;
+    text-align: center;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    color: cyan;
+}
+
+a{
+    color: cyan;
+}
